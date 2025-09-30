@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 This is my new GitHub profile!  
 But you can check out my original account here: [**Abin-28**](https://github.com/Abin-28)  
